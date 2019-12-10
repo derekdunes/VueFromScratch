@@ -1,4 +1,12 @@
 new Vue({
+el: '#event',
+data: {
+age: '25'
+}
+
+});
+
+new Vue({
 	el: '#vue-app',
 	data: {
 		name : 'Derek',
